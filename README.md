@@ -23,11 +23,19 @@ It has two AI models:
 
 In addition to this, a segmentation algorithm was implemented to obtain and manage the information.
 ## Installation
+The versions of the libraries used are:
+* Torch - 1.12.0
+* OpenCV - 4.7.0
+* Numpy - 1.20.3
+* Keras - 2.4.3
+* Tensorflow 2.4.1
 
-Instrucciones para instalar o configurar el proyecto. Puedes incluir dependencias y requisitos del sistema.
+Additionally, a 4 GB NVIDIA Jetson Nano and a webcam are required.
 
 ## Usage
 
+The program runs the AI models on photos acquired from a camera housed in the storage station; the prediction results can be observed in resulting images that are saved. 
+Subsequently, the information extracted from the photos is stored in a matrix to process that information.
 
 
 
