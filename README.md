@@ -33,7 +33,7 @@ The versions of the libraries used are:
 * Keras - 2.4.3
 * Tensorflow 2.4.1
 
-Additionally, a 4 GB NVIDIA Jetson Nano and a webcam are required.
+Additionally, a NVIDIA Jetson Nano 4 GB and a webcam are required.
 
 ## Usage
 
