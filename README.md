@@ -22,6 +22,9 @@ It has two AI models:
 2. The second model identifies the color of the piece.
 
 In addition to this, a segmentation algorithm was implemented to obtain and manage the information.
+
+![Diseño sin título](https://github.com/alejo-jose/Jetson-AI-Specialist/assets/67164878/a64e74c0-adf6-4bdd-92e2-c46560a0a235)
+
 ## Installation
 The versions of the libraries used are:
 * Torch - 1.12.0
