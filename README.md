@@ -6,7 +6,7 @@ Project Documentation for Jetson AI Specialist
 
 The project aims to harness artificial intelligence as one of the pillars of Industry 4.0 to enhance efficiency, reduce errors, and provide complete inventory visibility, thereby contributing to smarter and more agile storage management.
 
-The application of AI in product warehouses enables us to:
+The application of AI in product storage stations allows us to:
 
 * Detect and recognize product stock
 
